@@ -22,6 +22,20 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Link
+        label: Play
+        altText: Play
+        url: >-
+          /<iframe style="border: 0; width: 350px; height: 470px;"
+          src="https://bandcamp.com/EmbeddedPlayer/album=3157037917/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/"
+          seamless><a
+          href="https://mistertom.bandcamp.com/album/on-the-horizon">On The
+          Horizon by Mr.Tom</a></iframe>
+        showIcon: true
+        icon: play
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
